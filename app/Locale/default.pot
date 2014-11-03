@@ -1,0 +1,676 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-06 14:51+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CustomersController.php:38;71;100;128;161;190
+msgid "Invalid customer"
+msgstr ""
+
+#: Controller/CustomersController.php:53;75;143;165
+msgid "The customer has been saved"
+msgstr ""
+
+#: Controller/CustomersController.php:56;78;146;168
+msgid "The customer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CustomersController.php:103;193
+msgid "Customer deleted"
+msgstr ""
+
+#: Controller/CustomersController.php:106;196
+msgid "Customer was not deleted"
+msgstr ""
+
+#: Controller/ProductsController.php:38;74;106;134;170;202
+msgid "Invalid product"
+msgstr ""
+
+#: Controller/ProductsController.php:53;78;149;174
+msgid "The product has been saved"
+msgstr ""
+
+#: Controller/ProductsController.php:56;81;152;177
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:109;205
+msgid "Product deleted"
+msgstr ""
+
+#: Controller/ProductsController.php:112;208
+msgid "Product was not deleted"
+msgstr ""
+
+#: Controller/ProductsSalesController.php:38;71;100;128;161;190
+msgid "Invalid products sale"
+msgstr ""
+
+#: Controller/ProductsSalesController.php:53;75;143;165
+msgid "The products sale has been saved"
+msgstr ""
+
+#: Controller/ProductsSalesController.php:56;78;146;168
+msgid "The products sale could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsSalesController.php:103;193
+msgid "Products sale deleted"
+msgstr ""
+
+#: Controller/ProductsSalesController.php:106;196
+msgid "Products sale was not deleted"
+msgstr ""
+
+#: Controller/SalesController.php:38;74;106;134;170;202
+msgid "Invalid sale"
+msgstr ""
+
+#: Controller/SalesController.php:53;78;149;174
+msgid "The sale has been saved"
+msgstr ""
+
+#: Controller/SalesController.php:56;81;152;177
+msgid "The sale could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SalesController.php:109;205
+msgid "Sale deleted"
+msgstr ""
+
+#: Controller/SalesController.php:112;208
+msgid "Sale was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:38;71;100;128;161;190
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:53;75;143;165
+msgid "The user has been saved"
+msgstr ""
+
+#: Controller/UsersController.php:56;78;146;168
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:103;193
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:106;196
+msgid "User was not deleted"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:146
+msgid "The translation has been saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:167;190
+msgid "Translation saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:210
+msgid "Translation deleted"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid "Be aware that your Translation and all associated data will be deleted if you confirm!"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70
+#: View/Customers/edit.ctp:9
+#: View/Customers/index.ctp:43
+#: View/Customers/view.ctp:82
+#: View/Products/edit.ctp:9
+#: View/Products/index.ctp:57
+#: View/Products/view.ctp:109
+#: View/ProductsSales/edit.ctp:9
+#: View/ProductsSales/index.ctp:49
+#: View/Sales/edit.ctp:9
+#: View/Sales/index.ctp:49
+#: View/Sales/view.ctp:97
+#: View/Users/edit.ctp:9
+#: View/Users/index.ctp:49
+#: View/Users/view.ctp:105
+msgid "Delete"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+msgid "Submit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6
+#: View/Customers/index.ctp:54
+#: View/Products/index.ctp:68
+#: View/ProductsSales/index.ctp:60
+#: View/Sales/index.ctp:60
+#: View/Users/index.ctp:60
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+msgid "Content"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+msgid "Search"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:40
+#: View/Customers/index.ctp:31
+#: View/Customers/view.ctp:67
+#: View/Products/index.ctp:38
+#: View/Products/view.ctp:94
+#: View/ProductsSales/index.ctp:33
+#: View/Sales/index.ctp:34
+#: View/Sales/view.ctp:78
+#: View/Users/index.ctp:34
+#: View/Users/view.ctp:86
+msgid "Actions"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67
+#: View/Customers/index.ctp:41
+#: View/Customers/view.ctp:80
+#: View/Products/index.ctp:55
+#: View/Products/view.ctp:107
+#: View/ProductsSales/index.ctp:47
+#: View/Sales/index.ctp:47
+#: View/Sales/view.ctp:95
+#: View/Users/index.ctp:47
+#: View/Users/view.ctp:103
+msgid "View"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68
+#: View/Customers/index.ctp:42
+#: View/Customers/view.ctp:81
+#: View/Products/index.ctp:56
+#: View/Products/view.ctp:108
+#: View/ProductsSales/index.ctp:48
+#: View/Sales/index.ctp:48
+#: View/Sales/view.ctp:96
+#: View/Users/index.ctp:48
+#: View/Users/view.ctp:104
+msgid "Edit"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4
+#: View/Customers/view.ctp:31;63
+#: View/Products/view.ctp:33;90
+#: View/ProductsSales/view.ctp:33
+#: View/Sales/view.ctp:33;70
+#: View/Users/view.ctp:31;78
+msgid "Id"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr ""
+
+#: View/Customers/add.ctp:9
+#: View/Customers/edit.ctp:10
+#: View/Customers/view.ctp:11
+#: View/Sales/add.ctp:10
+#: View/Sales/edit.ctp:11
+#: View/Sales/index.ctp:10
+#: View/Sales/view.ctp:13
+msgid "List Customers"
+msgstr ""
+
+#: View/Customers/add.ctp:10
+#: View/Customers/edit.ctp:11
+#: View/Customers/index.ctp:10
+#: View/Customers/view.ctp:13
+#: View/Products/add.ctp:12
+#: View/Products/edit.ctp:13
+#: View/Products/index.ctp:12
+#: View/Products/view.ctp:15
+#: View/ProductsSales/add.ctp:10
+#: View/ProductsSales/edit.ctp:11
+#: View/ProductsSales/index.ctp:10
+#: View/ProductsSales/view.ctp:13
+#: View/Sales/add.ctp:9
+#: View/Sales/edit.ctp:10
+#: View/Sales/view.ctp:11
+msgid "List Sales"
+msgstr ""
+
+#: View/Customers/add.ctp:11
+#: View/Customers/edit.ctp:12
+#: View/Customers/index.ctp:11
+#: View/Customers/view.ctp:14;94
+#: View/Products/add.ctp:13
+#: View/Products/edit.ctp:14
+#: View/Products/index.ctp:13
+#: View/Products/view.ctp:16;121
+#: View/ProductsSales/add.ctp:11
+#: View/ProductsSales/edit.ctp:12
+#: View/ProductsSales/index.ctp:11
+#: View/ProductsSales/view.ctp:14
+#: View/Sales/index.ctp:9
+#: View/Sales/view.ctp:12
+msgid "New Sale"
+msgstr ""
+
+#: View/Customers/add.ctp:20
+msgid "Add Customer"
+msgstr ""
+
+#: View/Customers/edit.ctp:9
+#: View/Customers/index.ctp:43
+#: View/Customers/view.ctp:10;82
+#: View/Products/edit.ctp:9
+#: View/Products/index.ctp:57
+#: View/Products/view.ctp:10;109
+#: View/ProductsSales/edit.ctp:9
+#: View/ProductsSales/index.ctp:49
+#: View/ProductsSales/view.ctp:10
+#: View/Sales/edit.ctp:9
+#: View/Sales/index.ctp:49
+#: View/Sales/view.ctp:10;97
+#: View/Users/edit.ctp:9
+#: View/Users/index.ctp:49
+#: View/Users/view.ctp:10;105
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Customers/edit.ctp:21
+#: View/Customers/view.ctp:9
+msgid "Edit Customer"
+msgstr ""
+
+#: View/Customers/index.ctp:9
+#: View/Customers/view.ctp:12
+#: View/Sales/add.ctp:11
+#: View/Sales/edit.ctp:12
+#: View/Sales/index.ctp:11
+#: View/Sales/view.ctp:14
+msgid "New Customer"
+msgstr ""
+
+#: View/Customers/index.ctp:22
+msgid "Customers"
+msgstr ""
+
+#: View/Customers/index.ctp:61
+#: View/Products/index.ctp:75
+#: View/ProductsSales/index.ctp:67
+#: View/Sales/index.ctp:67
+#: View/Users/index.ctp:67
+msgid "Previous"
+msgstr ""
+
+#: View/Customers/index.ctp:63
+#: View/Products/index.ctp:77
+#: View/ProductsSales/index.ctp:69
+#: View/Sales/index.ctp:69
+#: View/Users/index.ctp:69
+msgid "Next"
+msgstr ""
+
+#: View/Customers/view.ctp:10
+msgid "Delete Customer"
+msgstr ""
+
+#: View/Customers/view.ctp:26
+#: View/Sales/view.ctp:38
+msgid "Customer"
+msgstr ""
+
+#: View/Customers/view.ctp:36
+msgid "Customer Name"
+msgstr ""
+
+#: View/Customers/view.ctp:41;66
+#: View/Products/view.ctp:93
+#: View/Sales/view.ctp:48
+msgid "Other Details"
+msgstr ""
+
+#: View/Customers/view.ctp:55
+#: View/Products/view.ctp:82
+msgid "Related Sales"
+msgstr ""
+
+#: View/Customers/view.ctp:64
+#: View/Products/view.ctp:91
+msgid "Customer Id"
+msgstr ""
+
+#: View/Customers/view.ctp:65
+#: View/Products/view.ctp:92
+#: View/Sales/view.ctp:43
+msgid "Sale Total Value"
+msgstr ""
+
+#: View/Products/add.ctp:9
+#: View/Products/edit.ctp:10
+#: View/Products/view.ctp:11
+#: View/ProductsSales/add.ctp:12
+#: View/ProductsSales/edit.ctp:13
+#: View/ProductsSales/index.ctp:12
+#: View/ProductsSales/view.ctp:15
+#: View/Sales/add.ctp:12
+#: View/Sales/edit.ctp:13
+#: View/Sales/index.ctp:12
+#: View/Sales/view.ctp:15
+#: View/Users/add.ctp:10
+#: View/Users/edit.ctp:11
+#: View/Users/index.ctp:10
+#: View/Users/view.ctp:13
+msgid "List Products"
+msgstr ""
+
+#: View/Products/add.ctp:10
+#: View/Products/edit.ctp:11
+#: View/Products/index.ctp:10
+#: View/Products/view.ctp:13
+#: View/Users/add.ctp:9
+#: View/Users/edit.ctp:10
+#: View/Users/view.ctp:11
+msgid "List Users"
+msgstr ""
+
+#: View/Products/add.ctp:11
+#: View/Products/edit.ctp:12
+#: View/Products/index.ctp:11
+#: View/Products/view.ctp:14
+#: View/Users/index.ctp:9
+#: View/Users/view.ctp:12
+msgid "New User"
+msgstr ""
+
+#: View/Products/add.ctp:22
+msgid "Add Product"
+msgstr ""
+
+#: View/Products/edit.ctp:23
+#: View/Products/view.ctp:9
+msgid "Edit Product"
+msgstr ""
+
+#: View/Products/index.ctp:9
+#: View/Products/view.ctp:12
+#: View/ProductsSales/add.ctp:13
+#: View/ProductsSales/edit.ctp:14
+#: View/ProductsSales/index.ctp:13
+#: View/ProductsSales/view.ctp:16
+#: View/Sales/add.ctp:13
+#: View/Sales/edit.ctp:14
+#: View/Sales/index.ctp:13
+#: View/Sales/view.ctp:16;109
+#: View/Users/add.ctp:11
+#: View/Users/edit.ctp:12
+#: View/Users/index.ctp:11
+#: View/Users/view.ctp:14;117
+msgid "New Product"
+msgstr ""
+
+#: View/Products/index.ctp:24
+msgid "Products"
+msgstr ""
+
+#: View/Products/view.ctp:10
+msgid "Delete Product"
+msgstr ""
+
+#: View/Products/view.ctp:28
+#: View/ProductsSales/view.ctp:43
+msgid "Product"
+msgstr ""
+
+#: View/Products/view.ctp:38
+#: View/Sales/view.ctp:71
+#: View/Users/view.ctp:79
+msgid "Title"
+msgstr ""
+
+#: View/Products/view.ctp:43
+#: View/Sales/view.ctp:72
+#: View/Users/view.ctp:80
+msgid "Description"
+msgstr ""
+
+#: View/Products/view.ctp:48
+#: View/Sales/view.ctp:73
+#: View/Users/view.ctp:81
+msgid "Price"
+msgstr ""
+
+#: View/Products/view.ctp:53
+#: View/Sales/view.ctp:74
+#: View/Users/view.ctp:82
+msgid "Email"
+msgstr ""
+
+#: View/Products/view.ctp:58
+#: View/Sales/view.ctp:75
+#: View/Users/view.ctp:51;83
+msgid "Created"
+msgstr ""
+
+#: View/Products/view.ctp:63
+#: View/Sales/view.ctp:76
+#: View/Users/view.ctp:56;84
+msgid "Modified"
+msgstr ""
+
+#: View/Products/view.ctp:68
+#: View/Users/view.ctp:26
+msgid "User"
+msgstr ""
+
+#: View/ProductsSales/add.ctp:9
+#: View/ProductsSales/edit.ctp:10
+#: View/ProductsSales/view.ctp:11
+msgid "List Products Sales"
+msgstr ""
+
+#: View/ProductsSales/add.ctp:22
+msgid "Add Products Sale"
+msgstr ""
+
+#: View/ProductsSales/edit.ctp:23
+#: View/ProductsSales/view.ctp:9
+msgid "Edit Products Sale"
+msgstr ""
+
+#: View/ProductsSales/index.ctp:9
+#: View/ProductsSales/view.ctp:12
+msgid "New Products Sale"
+msgstr ""
+
+#: View/ProductsSales/index.ctp:24
+msgid "Products Sales"
+msgstr ""
+
+#: View/ProductsSales/view.ctp:10
+msgid "Delete Products Sale"
+msgstr ""
+
+#: View/ProductsSales/view.ctp:28
+msgid "Products Sale"
+msgstr ""
+
+#: View/ProductsSales/view.ctp:38
+#: View/Sales/view.ctp:28
+msgid "Sale"
+msgstr ""
+
+#: View/Sales/add.ctp:22
+msgid "Add Sale"
+msgstr ""
+
+#: View/Sales/edit.ctp:23
+#: View/Sales/view.ctp:9
+msgid "Edit Sale"
+msgstr ""
+
+#: View/Sales/index.ctp:24
+msgid "Sales"
+msgstr ""
+
+#: View/Sales/view.ctp:10
+msgid "Delete Sale"
+msgstr ""
+
+#: View/Sales/view.ctp:62
+#: View/Users/view.ctp:70
+msgid "Related Products"
+msgstr ""
+
+#: View/Sales/view.ctp:77
+#: View/Users/view.ctp:85
+msgid "User Id"
+msgstr ""
+
+#: View/Users/add.ctp:20
+msgid "Add User"
+msgstr ""
+
+#: View/Users/edit.ctp:21
+#: View/Users/view.ctp:9
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/index.ctp:22
+msgid "Users"
+msgstr ""
+
+#: View/Users/view.ctp:10
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/view.ctp:36
+msgid "Username"
+msgstr ""
+
+#: View/Users/view.ctp:41
+msgid "Password"
+msgstr ""
+
+#: View/Users/view.ctp:46
+msgid "Role"
+msgstr ""
+
+#: Model/Customer.php:validation for field customer_name
+#: Model/Product.php:validation for field title;validation for field description
+#: Model/User.php:validation for field username;validation for field password;validation for field role
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Product.php:validation for field price
+#: Model/Sale.php:validation for field sale_total_value
+msgid "numeric"
+msgstr ""
+
+#: Model/Product.php:validation for field email
+msgid "email"
+msgstr ""
+
